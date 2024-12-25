@@ -1,5 +1,3 @@
-import MovieCard from './MovieCard';
-
 const MovieList = ({ movies }) => {
   return (
     <div className="grid grid-cols-4 gap-4">
